@@ -1,0 +1,17 @@
+SOURCES DES ICÔNES
+
+Raspberry Pi : Amperka, hardware-drawings.
+Page : https://github.com/amperka/hardware-drawings
+Illustration : https://github.com/amperka/hardware-drawings/blob/master/raspberry-pi-3-model-b-plus.svg
+Licence : CC BY-NC-SA 4.0, https://creativecommons.org/licenses/by-nc-sa/4.0/
+L’illustration sert de symbole de Raspberry Pi ; le modèle exact du TP n’a pas été confirmé.
+Adaptation : retrait de métadonnées pour l’intégration, sans modification de l’illustration.
+
+Commutateur : Cisco Systems, Network Topology Icons, Workgroup switch.
+Page : https://www.cisco.com/c/en/us/about/brand-center/network-topology-icons.html
+Archive EPS officielle : https://www.cisco.com/c/dam/en_us/about/ac50/ac47/3015_eps.zip
+Cisco autorise l’utilisation libre des icônes sans les altérer.
+Conversion EPS vers SVG uniquement, sans modification des formes ni des couleurs.
+
+Les icônes sont incorporées dans le fichier .drawio et restent disponibles hors ligne.
+Les illustrations, les textes et les connecteurs sont des objets séparés modifiables dans draw.io.
